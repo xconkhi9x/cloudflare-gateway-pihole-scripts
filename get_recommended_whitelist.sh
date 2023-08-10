@@ -8,7 +8,7 @@ touch whitelist.csv
 # declare an array of urls
 urls=(
     # Commented out because it looks suspicious
-    # https://www.aadvantageeshopping.com/adBlockWhitelist.php
+    https://www.aadvantageeshopping.com/adBlockWhitelist.php
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt
     https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/windows.txt
