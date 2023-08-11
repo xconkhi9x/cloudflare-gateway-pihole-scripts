@@ -11,6 +11,7 @@ urls=(
   https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt
   https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
   https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/vietnamese.txt
+  https://abpvn.com/filter/abpvn-moqOh2.txt
 )
 
 # loop through the urls and download each file with curl
